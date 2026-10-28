@@ -1,0 +1,19 @@
+{
+  "name": "PANDAs Spazierkarte – Bologna & Venedig",
+  "short_name": "PANDAs Karte",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5ef",
+  "theme_color": "#153d33",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "./panda.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
